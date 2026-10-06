@@ -21,10 +21,11 @@ header{
     list-style-type: none;
     gap: 24px;
 }
-button{
-    background-color: blue;
-    color: white;
-    padding: 12px 30px;
-    border-radius: 15px;
-    font-weight: 500;
+.btn{
+    background-color: #1D4ED8;
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 12px 12px;
+    border-radius: 10px;
+    font-weight: bold;
 }
